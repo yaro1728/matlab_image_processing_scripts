@@ -1,6 +1,6 @@
 # matlab_image_processing_scripts
 
-#code and sample data for processing cell-tracking tracedata
+#General code for processing cell-tracking tracedata w/ sample_data
 
 #Yao Rong, 10/2023
 

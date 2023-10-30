@@ -2,5 +2,5 @@
 
 #General code for processing cell-tracking tracedata w/ sample_data
 
-#Yao Rong, 10/2023
+#Run CDK2_cross_condition_CCND1 for further image analysis to get cell_info.mat and plot figures
 
